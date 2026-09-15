@@ -32,7 +32,7 @@ const chakar = {
 ### 🧊 3D Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Chakar-Randhawa/Chakar-Randhawa/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Chakar-Randhawa/Chakar-Randhawa/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
 ---
@@ -56,7 +56,7 @@ const chakar = {
 ### 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Chakar-Randhawa&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1&column=7"/>
+<img src="https://raw.githubusercontent.com/Chakar-Randhawa/Chakar-Randhawa/main/profile/trophy.svg" width="100%"/>
 </div>
 
 ---
@@ -107,7 +107,7 @@ High-performance forward proxy in Go — bypasses signature-based anti-bot detec
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Chakar-Randhawa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2c5364&icon_color=2c5364&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chakar-Randhawa&theme=dark&hide_border=true&background=0d1117&ring=2c5364&fire=2c5364" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Chakar-Randhawa&theme=dark&hide_border=true&background=0D1117&ring=2C5364&fire=2C5364" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chakar-Randhawa&theme=react-dark&hide_border=true&bg_color=0d1117&color=2c5364&line=2c5364&point=ffffff" width="95%"/>
 

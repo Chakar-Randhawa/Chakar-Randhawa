@@ -37,14 +37,6 @@ const chakar = {
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Chakar-Randhawa/Chakar-Randhawa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
----
-
 ### 📈 Full Metrics Dashboard
 
 <div align="center">

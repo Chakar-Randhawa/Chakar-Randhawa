@@ -29,13 +29,27 @@ const chakar = {
 
 ---
 
+### 🧊 3D Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Chakar-Randhawa/Chakar-Randhawa/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</div>
+
+---
+
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Chakar-Randhawa/Chakar-Randhawa/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Chakar-Randhawa/Chakar-Randhawa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚙️ This animates automatically once the workflow below runs for the first time (takes a few minutes after your first commit).
+---
+
+### 📈 Full Metrics Dashboard
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Chakar-Randhawa/Chakar-Randhawa/main/metrics.svg" width="100%"/>
+</div>
 
 ---
 

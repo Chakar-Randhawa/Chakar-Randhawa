@@ -1,66 +1,107 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Chakar%20Randhawa&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20%7C%20SaaS%20Builder%20%7C%20Mobile%20App%20Dev&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=CHAKAR%20RANDHAWA&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=SaaS%20Builder%20%7C%20Full%20Stack%20%7C%20Mobile%20App%20Dev&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+CR+Digital+Enterprises;Shipping+SaaS+tools+solo;Go+%2B+TypeScript+%2B+React+Native;Turning+ideas+into+revenue;&font=Fira%20Code&center=true&width=600&height=45&color=2c5364&vCenter=true&size=22"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2C5364&center=true&vCenter=true&width=700&height=60&lines=Founder+%40+CR+Digital+Enterprises;Building+an+Anti-Bot+Proxy+Engine+in+Go;Shipping+4+SaaS+products+solo;Full+Stack+%2B+Mobile+%2B+SaaS" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Chakar-Randhawa&color=2c5364&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Chakar-Randhawa?style=for-the-badge&color=2c5364&labelColor=0d1117)
 
 </div>
 
 ---
 
-### 👋 About
+### 👨‍💻 About Me
 
-I run **[CR Digital Enterprises](https://cr-digital-enterprises.netlify.app/)** — a one-man digital products company. I design, build, and ship SaaS tools, client websites, and mobile apps end-to-end: no team, no outsourcing, just me and the stack.
+I run **[CR Digital Enterprises](https://cr-digital-enterprises.netlify.app/)** — a one-man digital products company. No team, no outsourcing: I design, build, and ship everything myself.
 
-- 🛠️ Currently building a **proxy engine** + a suite of internal SaaS tools
-- 🌐 Full stack development for clients (web + e-commerce)
-- 📱 2 mobile apps shipped
-- 🧵 Helping jewellery sellers expand internationally on Etsy
+```
+const chakar = {
+    role: ["SaaS Developer", "Full Stack Engineer", "Mobile App Dev"],
+    currentlyBuilding: "Anti-Bot Proxy Engine (Go + uTLS/JA4 emulation)",
+    products: 4,
+    mobileApps: 2,
+    philosophy: "ship it, then perfect it"
+};
+```
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Chakar-Randhawa/Chakar-Randhawa/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+> ⚙️ This animates automatically once the workflow below runs for the first time (takes a few minutes after your first commit).
+
+---
+
+### 🏆 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Chakar-Randhawa&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1&column=7"/>
+</div>
 
 ---
 
 ### 🚀 What I'm Building
 
-| Project | What it does | Link |
-|---|---|---|
-| **Anti-Bot Proxy Engine** | High-performance forward proxy written in Go — bypasses signature-based anti-bot detection via local uTLS/JA4 emulation | [Repo](https://github.com/Chakar-Randhawa/anti-bot-proxy-engine) |
-| **Nova Link** | SaaS tool | [Live](https://nova-link-xi.vercel.app/) |
-| **Pixel Forge** | SaaS tool | [Live](https://pixel-forge-olive-pi.vercel.app/) |
-| **Dark Theme** | SaaS tool | [Live](https://dark-theme-kappa.vercel.app/) |
-| **CR Loyalty Platform** | SaaS tool | [Live](https://cr-loyalty-platform.vercel.app/) |
+<table>
+<tr>
+<td width="50%">
 
-> _Swap in a one-line "what it does" for each once you send me the specifics — right now Nova Link / Pixel Forge / Dark Theme / CR Loyalty are placeholders._
+**⚡ Anti-Bot Proxy Engine**
+High-performance forward proxy in Go — bypasses signature-based anti-bot detection via local uTLS/JA4 emulation.
+[→ View Repo](https://github.com/Chakar-Randhawa/anti-bot-proxy-engine)
+
+**🔗 Nova Link**
+[→ Live](https://nova-link-xi.vercel.app/)
+
+</td>
+<td width="50%">
+
+**🎨 Pixel Forge**
+[→ Live](https://pixel-forge-olive-pi.vercel.app/)
+
+**🌓 Dark Theme**
+[→ Live](https://dark-theme-kappa.vercel.app/)
+
+**💎 CR Loyalty Platform**
+[→ Live](https://cr-loyalty-platform.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+> Send me a one-liner for each SaaS tool and I'll drop it in here — right now they're link-only.
 
 ---
 
-### 🧰 Tech I Work With
+### 🧰 Tech Stack
 
 <div align="center">
-
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=go,ts,js,react,nextjs,nodejs,python,aws,docker,figma,git,vercel&theme=dark" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chakar-Randhawa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2c5364&icon_color=2c5364" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Chakar-Randhawa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2c5364&icon_color=2c5364&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chakar-Randhawa&theme=dark&hide_border=true&background=0d1117&ring=2c5364&fire=2c5364" height="165"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chakar-Randhawa&theme=react-dark&hide_border=true&bg_color=0d1117&color=2c5364&line=2c5364&point=ffffff" width="95%"/>
+
 </div>
 
 ---
 
-### 📬 Reach Me
+### 📬 Let's Connect
 
 <div align="center">
 
@@ -70,4 +111,4 @@ I run **[CR Digital Enterprises](https://cr-digital-enterprises.netlify.app/)** 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2c5364,100:0f2027&height=120&section=footer&animation=twinkling" width="100%"/>
